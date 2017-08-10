@@ -1,0 +1,21 @@
+{
+    "name": "HelloWorldApp",
+    "version": "0.1.0",
+    "description": "A minimal Electron application",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": "https://github.com/spideep/electronapp",
+    "keywords": [
+        "Electron",
+        "hello",
+        "world",
+        "app"
+    ],
+    "author": "EH Developers",
+    "license": "CC0-1.0",
+    "devDependencies": {
+        "electron": "~1.6.2"
+    }
+}
