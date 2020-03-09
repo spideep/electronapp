@@ -16,6 +16,6 @@
     "author": "EH Developers",
     "license": "CC0-1.0",
     "devDependencies": {
-        "electron": "~1.6.2"
+        "electron": "~8.1.0"
     }
 }
