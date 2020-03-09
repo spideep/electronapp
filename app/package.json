@@ -13,9 +13,9 @@
         "world",
         "app"
     ],
-    "author": "EH Developers",
+    "author": "Alexis Rengifo",
     "license": "CC0-1.0",
     "devDependencies": {
-        "electron": ">=1.8.2-beta5"
+        "electron": "^8.1.0"
     }
 }
