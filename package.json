@@ -16,7 +16,7 @@
     "author": "Alexis Rengifo",
     "license": "CC0-1.0",
     "devDependencies": {
-        "electron": "^8.1.0",
+        "electron": "^18.3.7",
         "source-map-loader": "^0.2.4",
         "ts-loader": "^6.2.1"
     },
